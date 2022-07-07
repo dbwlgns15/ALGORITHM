@@ -1,4 +1,0 @@
-```ruby
-puts 'Hello World!'
-```
-
